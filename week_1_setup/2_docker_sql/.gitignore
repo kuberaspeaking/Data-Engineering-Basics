@@ -1,2 +1,5 @@
 .vscode
 .ipynb_checkpoints
+output.csv
+output.csv.gz
+ny_taxi_postgres_data
