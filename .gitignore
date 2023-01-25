@@ -2,3 +2,5 @@
 .DS_Store
 .vscode
 .github
+.terraform
+week_1_setup/2_docker_sql/ny_taxi_postgres_data/

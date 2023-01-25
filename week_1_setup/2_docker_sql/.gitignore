@@ -3,3 +3,4 @@
 output.csv
 output.csv.gz
 ny_taxi_postgres_data/
+green_tripdata_2019-01.csv.gz
