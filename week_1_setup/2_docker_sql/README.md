@@ -20,6 +20,7 @@
 - get schema of this data with the following command `print(pd.io.sql.get_schema(df, name= 'yellow_taxi_data'))`
 - A schema will be printed for a table named 'yellow_taxi_data' with the same fields as in the dataframe from the csv in DDL form. 
 - create a connection to postgres from within the jupyter notebook using pandas using sqlalchemy
+    
 - using pandas, copied data from csv into Postgres refer [jupyter notebook](upload_data_new.ipynb)
 
 >*Problems*: Unable to use jupyter notebook within VSCode <br/>
